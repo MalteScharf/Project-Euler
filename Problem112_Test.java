@@ -7,6 +7,7 @@ public class Problem112_Test {
         int number = 4341;
         List<Double> list = bouncy.createListWithRatioOfBN(103);
         System.out.println(list);
+        System.out.println(list);
         //double percentage = Math.round(list.getLast()*100.0)/100.0;
         //System.out.println(percentage);
 
